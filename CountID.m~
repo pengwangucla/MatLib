@@ -1,0 +1,5 @@
+function CountID(i, totalnum, bin)
+
+if mod(iimg,bin) == 1;
+    fprintf('%d / %d\n', i,totalnum);
+end
